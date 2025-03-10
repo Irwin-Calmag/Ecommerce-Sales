@@ -27,4 +27,14 @@ Insights and recommendations are provided on the following key areas:
   West Region is the leading region in terms of performance (YTD = $3.72M) with California being the 
   best performing state contributing upto $2.34M of the sales, while South Region is the worst
   performing region ($1.87M) with Louisiana state having a very poor performance ($45.88K).
+
+
+  # Recommendations:
+  
+  - Hire marketing managers, run influencer campaigns, and use retargeting ads in both office 
+   supplies and technology product categories to help boost the sales.
+  - Provision of state-specific discount codes and offer free shipping or faster delivery in 
+    targeted regions that are underperforming.
+  - Run holiday smart promotions e.g digital gift cards to attract customers, and exclusive 
+    discounts in the month of december to help maximize revenue.   
   
