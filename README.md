@@ -26,6 +26,9 @@ SAY SOMETHING LIKE AN UPWARD TREND IN MONTHLY SALES AND REVENUES - SPECIFY THE M
   increment in their products.
 
   #### Product Category Performance:
+  .... plant categories, regions(west....), countries(Bottom 10) - ALL THESE WITH SPECIFIC VALUES.
+...ACTUAL NUMBERS, ACTUAL GROWTH RATES, THE MONTHS AND THE PRODUCTS THAT DO WELL OR BADLY AND  BE MORE SPECIFIC
+.............
   Office supplies is the category having the maximum number of sales ($6.92M). While there is a 
   decline in sales growth in both Office supplies(-1.22%) and technology (-1.37%), furniture has 
   increased its sales by 0.73% hence the company should reveiw the strategies they applied in 
