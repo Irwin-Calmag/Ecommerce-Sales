@@ -50,7 +50,7 @@ Power BI: Dax, writing functions, ETL, calculated columns, data visualization, d
 
 
   ### Recommendations:
-  
+  ...THEY SHOULD BE TIED TO THE INSIGHTS WEVE FOUND- LIST THE PRODUCTS AND GIVE A REASON WHY SO E.G GIVEN THE UPWARD TREND IN ELECTRIC LETTER OPENERS AND BLANK IN THE TECHNOLOGY  CATEGORY CONSIDER RE-ALLOCATING MARKETTING BUDGET FOR THE NEXT 2 YEARS TO FOCUS ON THESE PRODUCTS....NB: what if asked this in an interview(16:01)..can explain it??
 - Hire marketing managers, run influencer campaigns, and use retargeting ads in both office 
    supplies and technology product categories to help boost the sales.
 - Provision of state-specific discount codes and offer free shipping or faster delivery in 
