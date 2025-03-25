@@ -24,15 +24,18 @@ An E-Commerce Sales Company is a business that sells products or services online
     
 Include an ERD (Entity relationship diagram)- can be created using CANVA 
   ### Executive Summary:
-  - OVERALL WHAT THE AVERAGE SALES AND REVENUE ARE ACROSS THESE MONTHS, WHAT THE AVERAGE GROWTH RATES ARE AND THE BEST PERFORMING MONTHS AND THE WORST PERFORMING MONTHS,,,THEN,,,THE BEST PERFORMING CATEGORIES ,,,AND THEN,,,THE BEST PERFORMING PROVINCES (say what those values are)
-SAY SOMETHING LIKE AN UPWARD TREND IN MONTHLY SALES AND REVENUES - SPECIFY THE MONTHS .Key performance indicators(WHICH ONES - DEEP DIVE)  have all shown the year-over-year sales changes.Key performance indicators(WHICH ONES - DEEP DIVE)  have all shown the year-over-year sales changes. the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
+In 2022, sales have declined (YoY YTD = -0.83%), with October ($1.11M) recording the highest sales and December ($0.74M) the lowest. While the quantity sold has decreased (-7.29%), profit (+4.50%) and profit margin (+5.37%) have increased, suggesting a rise in product prices. Office Supplies remains the top-selling category ($6.92M), but sales growth has declined in both Office Supplies (-1.22%) and Technology (-1.37%), whereas Furniture sales have increased (+0.73%). The company should analyze the marketing strategies that boosted Furniture sales and apply them to other categories. The West Region leads in performance (YTD = $3.72M), with California contributing $2.34M, while the South Region ($1.87M) is the weakest, with Louisiana performing the worst ($45.88K).
+* ADD SOMETHING ABOUT SHIPPING HERE*
+
+The following section will explore additional contributing factors and highlight key opportunity areas for improvement.
+ 
   ### Insights Deep-Dive
-...ACTUAL NUMBERS, ACTUAL GROWTH RATES, THE MONTHS AND THE PRODUCTS THAT DO WELL OR BADLY AND  BE MORE SPECIFIC
-  #### Sales Trends:
+
+  #### Sales and Profit Analysis:
   With respect to current year, sales are going down (YoY YTD = -0.83%), October being the month 
   with high sales and December the one with low sales. There is also a decline in quantity 
   sold(-7.29%) but increase in profit(YoY YTD = 4.50%) and profit Margin (5.37%), implying price 
-  increment in their products.
+  increment in their products. ***(COVERED IN EXECUTIVE SUMMARY)*
 
   #### Product Category Performance:
   .... plant categories, regions(west....), countries(Bottom 10) - ALL THESE WITH SPECIFIC VALUES.
@@ -45,6 +48,8 @@ SAY SOMETHING LIKE AN UPWARD TREND IN MONTHLY SALES AND REVENUES - SPECIFY THE M
   West Region is the leading region in terms of performance (YTD = $3.72M) with California being the 
   best performing state contributing upto $2.34M of the sales, while South Region is the worst
   performing region ($1.87M) with Louisiana state having a very poor performance ($45.88K).
+
+  #### Shipping and Delivery Performance:
 
  ### Methodology & Skills(Technical Details):
 The technical analysis involved:
