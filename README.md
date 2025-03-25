@@ -1,19 +1,28 @@
 ## E-Commerce Sales Analysis
 ### Project Background
-An E-Commerce Sales Company is a business that sells products or services online through digital platforms. It operates via websites, mobile apps, or online marketplaces. This project analyzes sales data from an e-commerce company, the objective is to help decision-makers understand sales growth, seasonality, and revenue trends to make data-driven business decisions.
-***** IN THIS PROJECT , WE EXPLORED THE MULTFACETED DATA OF ADVENTURE WORKS TO GAIN COMPREHENSIVE INSIGHTS IN OUR SALES DYNAMICS. **THE ULTIMATE GOAL WAS TO HARNESS THESE INSIGHTS TO DRIVE STRATEGIC DECISIONS ABOUT.................inorder to improve 
+An E-Commerce Sales Company is a business that sells products or services online through digital platforms. It operates via websites, mobile apps, or online marketplaces. This project analyzes e-commerce sales data by focusing on key metrics such as Total Profit, Profit Margin (%), Sales by Product Category, and Average Order Value. The goal is to provide decision-makers with insights into sales growth, seasonality, and revenue trends, enabling them to make informed, data-driven business decisions.
+
 
 ### Objectives
-The goal is to identify trends, inefficiencies, and opportunities for improving production and financial performance.
-
-- Sales Trends Analysis: Evaluation of performance differences on sales, profit, quantity and profit margin.4 WHAT?, Y SO?
-- Product Category Performance: Determine the best-performing and worst-performing product categories,regions and states and also top 5 best and worst products.
+1. Sales and Profit Analysis: Evaluation of performance differences on sales, profit, quantity and profit margin, this helps compare product categories to see which ones drive the highest revenue and profit and hence 
+   help in inventory strategies and allocation of  marketing budgets effectively.
+2. Product Category Performance: Determine the best-performing and worst-performing product categories,regions and states and also top 5 best and worst products. This will helps marketing teams focus efforts on high- 
+   performing areas while addressing underperforming segments to drive profitability and growth.
+3. Shipping and Delivery Performance: Analyze which shipping types cause the most delays, identify regions or products with frequent delivery issues and compare scheduled vs. actual delivery time to assess efficiency. This 
+   will helps stakeholders to work on optimizing shipping strategies to minimize delays and improve overall service reliability, hence enhancing customer satisfaction.
 
   An interactive power bi dashboard can be downloaded here.
   ### Data Strucrure & Initial Checks
-  Include an ERD (Entity relationship diagram)- can be created using CANVA 
   The dataset consists of the following columns:
-
+ 1. Calendar Table :  Reference table that includes Product name,Product name id,product family and product type... Allows us to evaluate which products are most popular and profitable.
+ 
+ 2.Ecommerce: Sales, COGS, order date and quantity. It helps us track purchasing patterns and 
+    identify high-performance products.
+    -Each unique record represents a sales transaction with information about the sales dates as well as the sales quantity and product. 
+ 
+ 3. State Codes: The dataset includes plants geographical details such as country, country_code,latitude and longitude. This helps us evaluate regional performance and tailor marketing strategies to different areas.
+    
+Include an ERD (Entity relationship diagram)- can be created using CANVA 
   ### Executive Summary:
   - OVERALL WHAT THE AVERAGE SALES AND REVENUE ARE ACROSS THESE MONTHS, WHAT THE AVERAGE GROWTH RATES ARE AND THE BEST PERFORMING MONTHS AND THE WORST PERFORMING MONTHS,,,THEN,,,THE BEST PERFORMING CATEGORIES ,,,AND THEN,,,THE BEST PERFORMING PROVINCES (say what those values are)
 SAY SOMETHING LIKE AN UPWARD TREND IN MONTHLY SALES AND REVENUES - SPECIFY THE MONTHS .Key performance indicators(WHICH ONES - DEEP DIVE)  have all shown the year-over-year sales changes.Key performance indicators(WHICH ONES - DEEP DIVE)  have all shown the year-over-year sales changes. the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
