@@ -32,25 +32,29 @@ The following section will explore additional contributing factors and highlight
   ### Insights Deep-Dive
 
   #### Sales and Profit Analysis:
-  With respect to current year, sales are going down (YoY YTD = -0.83%), October being the month 
-  with high sales and December the one with low sales. There is also a decline in quantity 
-  sold(-7.29%) but increase in profit(YoY YTD = 4.50%) and profit Margin (5.37%), implying price 
-  increment in their products. ***(COVERED IN EXECUTIVE SUMMARY)*
+  - In 2022, sales followed an alternating upward and downward trend, peaking in October ($1.11M), while December ($0.74M) recorded the lowest sales. 
+  - The West and East Regions contribute 60% of total sales, with the West Region alone accounting for 32%. Within the West, California contributes 63% of the region’s sales. The South Region ranked as the lowest- 
+    performing, contributing only 16% of total sales, with Louisiana being the weakest-performing state.
+  
 
   #### Product Category Performance:
-  .... plant categories, regions(west....), countries(Bottom 10) - ALL THESE WITH SPECIFIC VALUES.
-...ACTUAL NUMBERS, ACTUAL GROWTH RATES, THE MONTHS AND THE PRODUCTS THAT DO WELL OR BADLY AND  BE MORE SPECIFIC
-.............
-  Office supplies is the category having the maximum number of sales ($6.92M). While there is a 
-  decline in sales growth in both Office supplies(-1.22%) and technology (-1.37%), furniture has 
-  increased its sales by 0.73% hence the company should reveiw the strategies they applied in 
-  marketing furnitures to the other product categories.
-  West Region is the leading region in terms of performance (YTD = $3.72M) with California being the 
-  best performing state contributing upto $2.34M of the sales, while South Region is the worst
-  performing region ($1.87M) with Louisiana state having a very poor performance ($45.88K).
+
+  - Office supplies is the category having the maximum number of sales ($6.92M). While there is a decline in sales growth in both Office supplies(-1.22%) and technology (-1.37%), furniture has increased its sales by 0.73% 
+    hence the company should reveiw the strategies they applied in marketing furnitures to the other product categories.
+  - YTD sales by customer segment shows that Consumers lead with $5.98M (YoY -0.55%), followed by Corporates at $3.50M (YoY -0.66%), while Home Offices have the lowest sales at $2.06M (YoY -1.93%), 
+    experiencing the largest decline.
+  - With the Home Office segment experiencing the largest decline (YoY -1.93%), there is a need for targeted promotions, personalized marketing campaigns, and bundled offers to re-engage this customer group and boost 
+    sales.
+  - The Staple Envelopes is the top-performing product, contributing $57.09K in YTD sales, while the Rediform S.O.S Phone Message Books is the lowest-performing product, with YTD sales of only $0.18K.    
+  
 
   #### Shipping and Delivery Performance:
-
+  - Standard Class is the most frequently used shipping method, accounting for 60% of total shipments, despite having a longer delivery time of 4 days. This suggests that customers may prioritize cost savings over faster 
+    delivery, as Standard Class is typically the most affordable option.
+ - Second Class (19%) and First Class (15%) shipping options, which generally offer moderate delivery speeds at a higher cost, are used significantly less than Standard Class. This indicates that while some customers are 
+   willing to pay for faster shipping, the majority still opt for economical delivery choices.
+ -  Same Day shipping accounts for only 6% of total shipments, even though it has the fastest delivery time of 0 days. This low adoption rate suggests that factors such as higher shipping costs, limited product 
+    availability for same-day delivery, or customer preferences for planned purchases over urgent ones may be at play. 
  ### Methodology & Skills(Technical Details):
 The technical analysis involved:
 Excel (Power query and power pivot) : for data extraction, and advanced exploratory data analysis (EDA) via interactive pivot tables and charts.[here]..
@@ -71,6 +75,9 @@ Power BI: Dax, writing functions, ETL, calculated columns, data visualization, d
     targeted regions that are underperforming.
 - Run holiday smart promotions e.g digital gift cards to attract customers, and exclusive 
     discounts in the month of december to help maximize revenue.
+- Analyze California’s success (63% of West’s sales) and implement similar regional marketing campaigns.
+
+
 
 
 ### Caveats and Assumptions:
