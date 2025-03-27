@@ -1,6 +1,6 @@
 ## E-Commerce Sales Analysis
 ### Project Background
-An E-Commerce Sales Company is a business that sells products or services online through digital platforms. It operates via websites, mobile apps, or online marketplaces. This project analyzes e-commerce sales data by focusing on key metrics such as Total Profit, Profit Margin (%), Sales by Product Category, and Average Order Value. The goal is to provide decision-makers with insights into sales growth, seasonality, and revenue trends, enabling them to make informed, data-driven business decisions.
+An E-Commerce Sales Company is a business that sells products or services online through digital platforms. It operates via websites, mobile apps, or online marketplaces. This project analyzes e-commerce sales data across 2021 and 2022 by focusing on key metrics such as Total Profit, Profit Margin (%), Sales by Product Category, and Average Order Value. The goal is to provide decision-makers with insights into sales growth, seasonality, and revenue trends, enabling them to make informed, data-driven business decisions.
 
 
 ### Objectives
@@ -8,10 +8,11 @@ An E-Commerce Sales Company is a business that sells products or services online
    help in inventory strategies and allocation of  marketing budgets effectively.
 2. Product Category Performance: Determine the best-performing and worst-performing product categories,regions and states and also top 5 best and worst products. This will helps marketing teams focus efforts on high- 
    performing areas while addressing underperforming segments to drive profitability and growth.
-3. Shipping and Delivery Performance: Analyze which shipping types cause the most delays, identify regions or products with frequent delivery issues and compare scheduled vs. actual delivery time to assess efficiency. This 
-   will helps stakeholders to work on optimizing shipping strategies to minimize delays and improve overall service reliability, hence enhancing customer satisfaction.
+3. Shipping and Delivery Performance: Analyze which shipping types cause the most delays, identify regions or products with frequent delivery issues and compare scheduled vs. actual delivery time to assess efficiency. 
+   This will helps stakeholders to work on optimizing shipping strategies to minimize delays and improve overall service reliability, hence enhancing customer satisfaction.
 
 An interactive power bi dashboard can be downloaded here.
+
 ### Data Strucrure & Initial Checks
 The dataset consists of the following columns:
 1. Calendar Table :  Reference table that includes Product name,Product name id,product family and product type... Allows us to evaluate which products are most popular and profitable.
@@ -24,7 +25,7 @@ The dataset consists of the following columns:
 Include an ERD (Entity relationship diagram)- can be created using CANVA 
 ### Executive Summary:
 
-In 2022, sales have declined (YoY YTD = -0.83%), with October ($1.11M) recording the highest sales and December ($0.74M) the lowest. While the quantity sold has decreased (-7.29%), profit (+4.50%) and profit margin (+5.37%) have increased, suggesting a rise in product prices. Office Supplies remains the top-selling category ($6.92M), but sales growth has declined in both Office Supplies (-1.22%) and Technology (-1.37%), whereas Furniture sales have increased (+0.73%). The company should analyze the marketing strategies that boosted Furniture sales and apply them to other categories. The West Region leads in performance (YTD = $3.72M), with California contributing $2.34M, while the South Region ($1.87M) is the weakest, with Louisiana performing the worst ($45.88K).
+In 2022, sales have declined (YoY YTD = -0.83%), with October ($1.11M) recording the highest sales and December ($0.74M) the lowest. While the quantity sold has decreased (-7.29%), profit (4.50%) and profit margin (5.37%) have increased, suggesting a rise in product prices. Office Supplies remains the top-selling category ($6.92M), but sales growth has declined in both Office Supplies (-1.22%) and Technology (-1.37%), whereas Furniture sales have increased (0.73%). The company should analyze the marketing strategies that boosted Furniture sales and apply them to other categories. The West Region leads in performance (YTD = $3.72M), with California contributing $2.34M, while the South Region ($1.87M) is the weakest, with Louisiana performing the worst ($45.88K).
 * ADD SOMETHING ABOUT SHIPPING HERE*
 
 Below is the overview page from the powerBI dashboard and more examples are included throughout the report.
@@ -86,15 +87,17 @@ Power BI: Dax, writing functions, ETL, calculated columns, data visualization, d
  ...THEY SHOULD BE TIED TO THE INSIGHTS WEVE FOUND- LIST THE PRODUCTS AND GIVE A REASON WHY SO E.G GIVEN THE UPWARD TREND IN ELECTRIC LETTER OPENERS AND BLANK IN THE TECHNOLOGY  CATEGORY CONSIDER RE-ALLOCATING MARKETTING 
  BUDGET FOR THE NEXT 2 YEARS TO FOCUS ON THESE PRODUCTS....NB: what if asked this in an interview(16:01)..can explain it??
  1. Sales and Marketing Strategy Enhancement
- - Hire marketing managers, run influencer campaigns, and use retargeting ads in both office supplies and technology product categories to help boost the sales.
+    - Given the declining performance on both office supplies and technology product categories consider hiring marketing managers and running influencer campaigns for six months to help boost the sales.
+    - December being the worst performing month, try to run holiday smart promotions e.g digital gift cards to attract customers, and exclusive discounts to help maximize revenue.
  2. Data Analysis and Reporting Enhancement
-  - Analyze California’s success (63% of West’s sales) and implement similar regional marketing campaigns.
-  - Provision of state-specific discount codes and offer free shipping or faster delivery in targeted regions that are underperforming.
-  - Run holiday smart promotions e.g digital gift cards to attract customers, and exclusive discounts in the month of december to help maximize revenue.
+    - Consider analyzing California’s success (63% of West’s sales) and implement similar strategies on other states like Louisiana. 
+    - Offering region-specific discount codes, such as SOUTH15 for 15% off, can help boost sales in the South Region, which is currently the poorest-performing area.
+   
  3. Optimize Pricing for Same-Day Shipping
-  - exploration of discounted same-day shipping for high-value orders, bundling delivery costs with premium memberships, or negotiating better rates with logistics partners to make it more affordable.
-  - Expand Product Availability for Same-Day Delivery (HOW??)
-  - 
+    - Implementation of discounted same day shipping offers based on order value whereby there is a 10% off same-day shipping for orders above $50 and free same-day shipping for orders over $100. This 
+      encourages larger purchases while making fast delivery more appealing.
+    - Expand product availability for same-day delivery by strategically positioning high-demand products across fulfillment centers to ensure broader and faster same-day shipping coverage. 
+  
     NB: I SENCE A BIT OF BEING GENERIC IN THIS PROJECT( GO BACK AND DIG DEEP FOR THESE FINDINGS)
 
 
