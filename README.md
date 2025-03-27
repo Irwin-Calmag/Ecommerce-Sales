@@ -27,6 +27,10 @@ Include an ERD (Entity relationship diagram)- can be created using CANVA
 In 2022, sales have declined (YoY YTD = -0.83%), with October ($1.11M) recording the highest sales and December ($0.74M) the lowest. While the quantity sold has decreased (-7.29%), profit (+4.50%) and profit margin (+5.37%) have increased, suggesting a rise in product prices. Office Supplies remains the top-selling category ($6.92M), but sales growth has declined in both Office Supplies (-1.22%) and Technology (-1.37%), whereas Furniture sales have increased (+0.73%). The company should analyze the marketing strategies that boosted Furniture sales and apply them to other categories. The West Region leads in performance (YTD = $3.72M), with California contributing $2.34M, while the South Region ($1.87M) is the weakest, with Louisiana performing the worst ($45.88K).
 * ADD SOMETHING ABOUT SHIPPING HERE*
 
+Below is the overview page from the powerBI dashboard and more examples are included throughout the report.
+![E-Commerce Overview](https://github.com/user-attachments/assets/772469f5-4e7c-419f-b670-3e02ef002f24)
+
+
 
  
 ### Insights Deep-Dive
@@ -38,6 +42,9 @@ In 2022, sales have declined (YoY YTD = -0.83%), with October ($1.11M) recording
 - On a month-on-month basis, July was the second-best performing month in sales but had the lowest profit margin (0.10), indicating that the company may have prioritized sales volume over profitability, possibly through 
   mid-year promotions or bulk discounts. In contrast, April recorded the highest profit margin (0.13) despite being among the bottom four months in sales, suggesting a focus on profitability rather than high sales 
   volume. This could be due to fewer discounts and a greater emphasis on selling premium or high-margin products.
+
+  ![Ecommerce-MONTHS](https://github.com/user-attachments/assets/3b9710a9-79d4-4913-8e30-e7349d90c332)
+
   
 
 #### Product Category Performance:
@@ -58,6 +65,11 @@ In 2022, sales have declined (YoY YTD = -0.83%), with October ($1.11M) recording
   willing to pay for faster shipping, the majority still opt for economical delivery choices.
 - Same Day shipping accounts for only 6% of total shipments, even though it has the fastest delivery time of 0 days. This low adoption rate suggests that factors such as higher shipping costs, limited product 
   availability for same-day delivery, or customer preferences for planned purchases over urgent ones may be at play.
+
+  ![SHIPPING TYPE E-COMMERCE](https://github.com/user-attachments/assets/646d9081-b9f4-4fd6-81a9-18e6821ebe99)
+
+   
+
     
 ### Methodology & Skills(Technical Details):
 The technical analysis involved:
