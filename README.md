@@ -24,7 +24,8 @@ The dataset consists of the following columns:
  
 3. *State Codes*: The dataset includes plants geographical details such as country, country_code,latitude and longitude. This helps us evaluate regional performance and tailor marketing strategies to different areas.
     
-Include an ERD (Entity relationship diagram)- can be created using CANVA 
+   ![ERD E-commerce](https://github.com/user-attachments/assets/e86243ac-bd86-4963-94a9-58d1d0267c7d)
+
 ### Executive Summary:
 
 In 2022, sales have declined (YoY YTD = -0.83%), with October ($1.11M) recording the highest sales and December ($0.74M) the lowest. While the quantity sold has decreased (-7.29%), profit (4.50%) and profit margin (5.37%) have increased, suggesting a rise in product prices. Office Supplies remains the top-selling category ($6.92M), but sales growth has declined in both Office Supplies (-1.22%) and Technology (-1.37%), whereas Furniture sales have increased (0.73%). The company should analyze the marketing strategies that boosted Furniture sales and apply them to other categories. The West Region leads in performance (YTD = $3.72M), with California contributing $2.34M, while the South Region ($1.87M) had the least sales, with Louisiana ($45.88K) being the worst performing state. Additionally, 60% of total shipments are made via Standard Class, even though it has the longest delivery time of 4 days.
