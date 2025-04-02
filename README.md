@@ -13,16 +13,14 @@ An E-Commerce Sales Company is a business that sells products or services online
 3. *Shipping and Delivery Performance*: Analyze the commonly used shipping types, identify regions or products with frequent delivery issues to assess efficiency. This will helps stakeholders to work on optimizing 
    shipping strategies to minimize delays, hence enhancing customer satisfaction.
 
-An interactive power bi dashboard can be downloaded here.
 
 ### Data Strucrure & Initial Checks
 The dataset consists of the following columns:
-1. *Calendar Table*:  Reference table that includes Product name,Product name id,product family and product type... Allows us to evaluate which products are most popular and profitable.
+1. *Customers Table*:  Comprises of customers details like First name, last name, customer id, country, segment and the city .  Allows us to evaluate which products are most popular and profitable.
  
-2. *Ecommerce*: Sales, COGS, order date and quantity. It helps us track purchasing patterns and identify high-performance products.
--Each unique record represents a sales transaction with information about the sales dates as well as the sales quantity and product. 
+2. *Orders Table*: Each unique record represents a sales transaction with information about the order dates, total sales, order id, order quantity and product name.
  
-3. *State Codes*: The dataset includes plants geographical details such as country, country_code,latitude and longitude. This helps us evaluate regional performance and tailor marketing strategies to different areas.
+3. *State Codes*: This table gives the state names, latitudes and longitudes.
     
    ![ERD E-commerce](https://github.com/user-attachments/assets/e86243ac-bd86-4963-94a9-58d1d0267c7d)
 
@@ -62,11 +60,11 @@ Below is the overview page from the powerBI dashboard and more examples are incl
   
 
 #### Shipping and Delivery Performance:
-- Standard Class is the most frequently used shipping method, accounting for 60% of total shipments, despite having a longer delivery time of 4 days. This suggests that customers prioritizes cost savings over faster 
+- Standard Class is the most frequently used shipping method, accounting for 60.51% of total shipments, despite having a longer delivery time of 4 days. This suggests that customers prioritizes cost savings over faster 
   delivery, as Standard Class is typically the most affordable option.
-- Second Class (19%) and First Class (15%) shipping options, which generally offer moderate delivery speeds at a higher cost, are used significantly less than Standard Class. This indicates that while some customers are 
-  willing to pay for faster shipping, the majority still opt for economical delivery choices.
-- Same Day shipping accounts for only 6% of total shipments, even though it has the fastest delivery time of 0 days. This low adoption rate suggests that factors like higher shipping costs, limited product 
+- Second Class (19.22%) and First Class (15.1%) shipping options, which generally offer moderate delivery speeds at a higher cost, are used significantly less than Standard Class. This indicates that while some customers 
+  are willing to pay for faster shipping, the majority still opt for economical delivery choices.
+- Same Day shipping accounts for only 5.17% of total shipments, even though it has the fastest delivery time of 0 days. This low adoption rate suggests that factors like higher shipping costs, limited product 
   availability for same day delivery and customer preferences for planned purchases over urgent ones are at play.
 
   ![SHIPPING TYPE E-COMMERCE](https://github.com/user-attachments/assets/646d9081-b9f4-4fd6-81a9-18e6821ebe99)
